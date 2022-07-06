@@ -173,6 +173,10 @@ section {
 
 }
 
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
 #op {
     height: 40%;
     width: 40%;
