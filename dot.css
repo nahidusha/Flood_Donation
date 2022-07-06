@@ -1,0 +1,182 @@
+#header {
+    background-image: url(pics/donation13.jpg);
+    background-size: cover;
+    color: cadetblue;
+    height: 100vh;
+    padding: 20px;
+    margin: 3%;
+    text-align: left center;
+    font-size: 25px;
+}
+
+.donate_button {
+    text-decoration: none;
+    background-color: rgb(139, 17, 17);
+    background-image: linear-gradient(white, rgb(110, 93, 93));
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: larger;
+}
+
+.moving_h1 {
+    text-align: center;
+}
+
+#secondd {
+    text-align: center;
+    font-size: 25px;
+    padding-top: 2%;
+}
+
+p {
+    text-align: center;
+    font-size: medium;
+}
+
+.footer {
+    background-color: antiquewhite;
+    border-radius: 5px;
+    padding: 20px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+#get_update {
+    text-align: center;
+    font-size: 40px;
+    padding-top: 10%;
+}
+
+#email {
+    text-align: center;
+    font-size: 40px;
+    background-color: rosybrown;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 7%;
+    border-radius: 10px;
+}
+
+#sub {
+    background-color: rgb(163, 146, 146);
+    background-color: red;
+    background-color: aliceblue;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: large;
+}
+
+section {
+    display: flex;
+}
+
+.wid {
+    width: 50%;
+    padding: 70px;
+    margin-right: 3%;
+    font-weight: 900;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.inside {
+    font-size: small;
+
+    font-weight: 200;
+    padding-left: 10%;
+}
+
+#donate_button {
+    text-decoration: none;
+    background-color: coral;
+    border-radius: 10%;
+    padding: 10px;
+}
+
+
+
+#donate_button2 {
+    text-decoration: none;
+    background-color: coral;
+    border-radius: 10%;
+    padding: 10px;
+}
+
+#second {
+    display: flex;
+}
+
+.widt {
+    width: 70%;
+    padding: 70px;
+    margin-right: 3%;
+    font-weight: 900;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.widt img {
+    width: 100%;
+    height: 100%;
+}
+
+section {
+    display: flex;
+    padding: 10%;
+    border: 10%;
+}
+
+#bcimg1 {
+    background-color: lightgoldenrodyellow;
+    margin: 2%;
+    padding: 2%;
+    border-radius: 10px;
+}
+
+#bcimg2 {
+    background-color: bisque;
+    background-color: aliceblue;
+    margin: 2%;
+    padding: 2%;
+    border-radius: 10px;
+}
+
+#bcimg3 {
+    background-color: blanchedalmond;
+    background-color: azure;
+    background-color: beige;
+    margin: 2%;
+    padding: 2%;
+    border-radius: 10px;
+}
+
+section {
+    display: flex;
+    padding: 10px;
+    text-align: center;
+}
+
+.tk {
+    background-color: aliceblue;
+    width: 20%;
+    padding: 20px;
+    padding-right: 10%;
+    margin: 5%;
+}
+
+#highlight {
+    background-color: lightpink;
+    border-radius: 10px;
+    border-color: blueviolet;
+    width: 20%;
+    padding: 20px;
+    padding-right: 10%;
+    margin: 5%;
+
+}
+
+#op {
+    height: 40%;
+    width: 40%;
+    display: inline-block;
+    text-align: center;
+    margin-left: 30%;
+}
